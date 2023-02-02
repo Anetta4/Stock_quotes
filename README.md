@@ -1,5 +1,6 @@
 # Stock_quotes
-About Dataset:
+**About Dataset:**
+
 Analysis of te company that reached the maximum price intraday.
 
 Thesis: Is it worth investing in a company that has reached the maximum price intraday? Are there any grounds to invest in it?
